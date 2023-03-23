@@ -1,2 +1,2 @@
-# Verilog-learning
-Basic verilog
+# Note/verilog-learning
+Basic verilog knowledge
